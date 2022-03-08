@@ -1,5 +1,5 @@
 # **Environmental Analysis**
-This is a project to analyze the ecological data and to create a visual representation of the data. This is based on Z by HP Unlocked Challenge.
+This is a project to analyze the ecological data and to create a visual representation of the data.
 
 The analysis is performed in three key aspects:
 1. Temperature Change for Top 4 Economies (2021)
