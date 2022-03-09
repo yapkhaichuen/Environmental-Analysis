@@ -79,3 +79,6 @@ Source: https://www.fao.org/faostat/en/#data
 ![Temperature Change for Top 4 Economies 2021](/Graphs/temperature_change.svg)
 ![CO2 Emissions from Energy Industries 2019](/Graphs/emissions.svg)
 ![Land Cover Percentage of Savanna & Forest Fires 2018 v 2001](/Graphs/land_coverage.svg)
+
+## **Conclusion**
+*In progress*
